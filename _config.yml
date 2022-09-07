@@ -1,20 +1,22 @@
-title: Hello, world! I'm David Freeman
+title: Sebastian Lopez-Cot 
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi! I am Sebastian Lopez-Cot, a machine learning and artificial intelligence engineer
+  hailing from the sunny state of Florida. I take pride in having built and/or programmed
+  all kinds of projects including electric racecars, sports-playing robots, autonomous
+  drones, self-driving 18-wheeler trucks, and mechanical robot arms. Please feel free 
+  to take a look around my webpage to learn more about me.
 permalink: ':title/'
 baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
+author: Sebastian Lopez-Cot 
+author-img: sebastian-lopez-cot.jpg # add your photo
 about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
+social-github: sebLopezCot # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 
